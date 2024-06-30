@@ -37,4 +37,4 @@ npm run dev
 
 ##### Project 2: Employee - Salary Info
 
-- my own simple react project
+- my own simple react project -> https://employee-salary-info.vercel.app/
