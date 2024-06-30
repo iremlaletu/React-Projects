@@ -2,7 +2,7 @@
 
 ---
 
-## Configuration Process
+### Configuration Process
 
 - Each folder in this repository is separate and has its own setup and configuration.
 - You'll find a brief overview of each project along with its setup instructions.
