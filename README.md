@@ -1,4 +1,4 @@
-### React Projects
+### React Projects - HUB
 
 ---
 
@@ -25,16 +25,21 @@ npm run dev
 
 ---
 
-### Technologies Used
+### Technologies Used - All
 
 - TailwinCSS
+- Framer Motion
 
 ---
 
-##### Project 1: Tic-Tac-Toe
+##### Project 1: Employee - Salary Info
 
-- a small tic-tac-toe game from [react](https://react.dev/learn) tutorial.
+- https://employee-salary-info.vercel.app
 
-##### Project 2: Employee - Salary Info
+##### Project 2: The Wish List
 
-- my own simple react project -> https://employee-salary-info.vercel.app/
+- https://thewishlist.netlify.app
+
+##### Project 3: Exchange Rate
+
+- https://exchange-rate-chi-one.vercel.app

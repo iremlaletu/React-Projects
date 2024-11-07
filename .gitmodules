@@ -1,0 +1,6 @@
+[submodule "exchangeRate"]
+	path = exchangeRate
+	url = https://github.com/iremlaletu/exchangeRate.git
+[submodule "wishlist"]
+	path = wishlist
+	url = https://github.com/iremlaletu/thewishlist.git
