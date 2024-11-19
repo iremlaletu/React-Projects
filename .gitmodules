@@ -4,3 +4,6 @@
 [submodule "wishlist"]
 	path = wishlist
 	url = https://github.com/iremlaletu/thewishlist.git
+[submodule "toDo"]
+	path = toDo
+	url = https://github.com/iremlaletu/toDoApp.git
