@@ -7,3 +7,6 @@
 [submodule "toDo"]
 	path = toDo
 	url = https://github.com/iremlaletu/toDoApp.git
+[submodule "ecommerce"]
+	path = ecommerce
+	url = https://github.com/iremlaletu/ecommerce.git
