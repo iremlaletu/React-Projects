@@ -51,3 +51,7 @@ npm run dev
 ##### Project 5: E commerce
 
 - https://ecommerce-self-ten.vercel.app
+
+##### Project 6: E To Do App - TypeScript
+
+- https://typescript--to-do.vercel.app
