@@ -10,3 +10,6 @@
 [submodule "ecommerce"]
 	path = ecommerce
 	url = https://github.com/iremlaletu/ecommerce.git
+[submodule "weatherApp"]
+	path = weatherApp
+	url = https://github.com/iremlaletu/weatherApp.git
