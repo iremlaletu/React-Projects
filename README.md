@@ -59,3 +59,7 @@ npm run dev
 ##### Project 7: The Weather
 
 - https://theweatherapp-seven.vercel.app
+
+##### Project 8: Yoga Club
+
+- https://yogai-tan.vercel.app

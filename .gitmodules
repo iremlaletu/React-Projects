@@ -13,3 +13,6 @@
 [submodule "weatherApp"]
 	path = weatherApp
 	url = https://github.com/iremlaletu/weatherApp.git
+[submodule "yogaapp"]
+	path = yogaapp
+	url = https://github.com/iremlaletu/yogaapp.git
